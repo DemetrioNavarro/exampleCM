@@ -2,7 +2,7 @@
 #include <windows.h>
 using namespace std; 
 
-//Nuevo comentario para añadir una modificación de ejemplo
+//Ejemplo de modificar el código.
 
 //struct proceso -> para almacenar los datos procesos
 struct Proceso{
