@@ -2,6 +2,8 @@
 #include <windows.h>
 using namespace std; 
 
+//Nuevo comentario para añadir una modificación de ejemplo
+
 //struct proceso -> para almacenar los datos procesos
 struct Proceso{
     int TME = 0, id = 0, resultado = 0;
